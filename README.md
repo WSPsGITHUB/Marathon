@@ -1,7 +1,7 @@
 "# Marathon"
 
 git clone https://github.com/WSPsGITHUB/Marathon.git<br/>
-cd marathon<br/>
+cd Marathon<br/>
 composer install<br/>
 
 shell : cp .env.example .env<br/>
