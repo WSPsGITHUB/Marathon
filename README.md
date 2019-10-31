@@ -14,7 +14,7 @@ select:utf8mb4_unicode_ci<br/>
 
 php artisan key:generate<br/>
 
-<!--無資料庫時才輸入下兩行-->
+--無資料庫時才輸入下兩行--<br/>
 php artisan migrate<br/>
 php artisan db:seed<br/>
 
